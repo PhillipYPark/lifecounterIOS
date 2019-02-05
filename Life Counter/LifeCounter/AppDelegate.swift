@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Life Counter
+//  LifeCounter
 //
-//  Created by Phillip Park on 1/28/19.
+//  Created by Phillip Park on 1/31/19.
 //  Copyright © 2019 Phillip Park. All rights reserved.
 //
 
